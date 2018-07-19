@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsRectApp", "WindowsFormsRectApp\WindowsFormsRectApp.csproj", "{3AAC4092-E806-4566-A134-156438BAFF0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AAC4092-E806-4566-A134-156438BAFF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAC4092-E806-4566-A134-156438BAFF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAC4092-E806-4566-A134-156438BAFF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAC4092-E806-4566-A134-156438BAFF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45082EB1-7D96-4F26-88E9-9248BFDD7D84}
+	EndGlobalSection
+EndGlobal
