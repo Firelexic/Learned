@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForLoopTwoExam", "ForLoopTwoExam\ForLoopTwoExam.csproj", "{B7621B80-18EC-430E-A088-7BF34AA0D464}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7621B80-18EC-430E-A088-7BF34AA0D464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7621B80-18EC-430E-A088-7BF34AA0D464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7621B80-18EC-430E-A088-7BF34AA0D464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7621B80-18EC-430E-A088-7BF34AA0D464}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A6B0690-5427-45F4-A34F-7D4474709A1D}
+	EndGlobalSection
+EndGlobal

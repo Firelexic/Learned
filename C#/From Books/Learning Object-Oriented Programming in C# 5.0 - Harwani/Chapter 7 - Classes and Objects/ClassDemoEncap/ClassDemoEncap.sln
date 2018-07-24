@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassDemoEncap", "ClassDemoEncap\ClassDemoEncap.csproj", "{7E99375F-16AB-490A-A8C7-4DD7329B87AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E99375F-16AB-490A-A8C7-4DD7329B87AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E99375F-16AB-490A-A8C7-4DD7329B87AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E99375F-16AB-490A-A8C7-4DD7329B87AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E99375F-16AB-490A-A8C7-4DD7329B87AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32D93688-B22A-4CD3-B348-7863DAF5EEFB}
+	EndGlobalSection
+EndGlobal
