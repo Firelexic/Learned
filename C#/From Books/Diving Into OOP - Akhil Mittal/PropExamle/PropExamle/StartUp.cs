@@ -2,11 +2,15 @@
 
 namespace PropExamle
 {
-    class Program
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Properties properties = new Properties();
+            properties.Name = "Akhil";
+            properties.Age = 40;
+            Console.WriteLine(properties.Name);
+            Console.WriteLine(properties.Age);
         }
     }
 }

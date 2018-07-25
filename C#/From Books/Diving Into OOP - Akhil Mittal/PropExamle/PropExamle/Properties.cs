@@ -4,7 +4,12 @@ using System.Text;
 
 namespace PropExamle
 {
-    class Properties
+    public class Properties
     {
+        private string name;
+        private int age;
+
+        public string Name { get; set; }
+        public int Age { get; set; }
     }
 }
