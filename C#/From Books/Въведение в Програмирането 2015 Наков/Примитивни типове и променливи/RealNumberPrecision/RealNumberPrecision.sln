@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealNumberPrecision", "RealNumberPrecision\RealNumberPrecision.csproj", "{260695EC-37BA-4582-8604-E7A622CBFC71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{260695EC-37BA-4582-8604-E7A622CBFC71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260695EC-37BA-4582-8604-E7A622CBFC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260695EC-37BA-4582-8604-E7A622CBFC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260695EC-37BA-4582-8604-E7A622CBFC71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF73B6CC-87A8-43BD-A307-ACA6F041B42F}
+	EndGlobalSection
+EndGlobal
